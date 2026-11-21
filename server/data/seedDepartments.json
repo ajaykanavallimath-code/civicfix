@@ -1,0 +1,62 @@
+[
+  {
+    "code": "TMC",
+    "name": "Town Municipal Council (Savanur TMC)",
+    "nameLocal": "ಪುರಸಭೆ ಕಾರ್ಯಾಲಯ, ಸವಣೂರು",
+    "description": "Handles solid waste management, urban street cleaning, municipal drains, and town streetlights.",
+    "jurisdiction": "Savanur Town Municipality limits",
+    "handledIssues": ["garbage", "sewage", "streetlight"],
+    "slaHours": 24,
+    "contactEmail": "chief-officer@savanurtmc.kar.gov.in",
+    "contactPhone": "+91 8378 245022",
+    "officerName": "Shri M. B. Patil (Chief Officer)"
+  },
+  {
+    "code": "PWD",
+    "name": "Public Works Department (Haveri Division)",
+    "nameLocal": "ಲೋಕೋಪಯೋಗಿ ಇಲಾಖೆ (ಹಾವೇರಿ ವಿಭಾಗ)",
+    "description": "Responsible for state highways, major district roads, bridges, and road surface damages.",
+    "jurisdiction": "Haveri District PWD Roads & State Highways",
+    "handledIssues": ["pothole", "road_damage"],
+    "slaHours": 72,
+    "contactEmail": "ee-haveri@karnatakapwd.gov.in",
+    "contactPhone": "+91 8375 232415",
+    "officerName": "Er. Rajeshwari H. (Executive Engineer)"
+  },
+  {
+    "code": "KUWSDB",
+    "name": "Karnataka Urban Water Supply & Drainage Board (KUWS&DB)",
+    "nameLocal": "ಕರ್ನಾಟಕ ನಗರ ನೀರು ಸರಬರಾಜು ಮತ್ತು ಒಳಚರಂಡಿ ಮಂಡಳಿ",
+    "description": "Manages drinking water distribution pipelines, main water leaks, valve maintenance, and major storm lines.",
+    "jurisdiction": "Urban water infrastructure across Haveri, Savanur & Byadgi",
+    "handledIssues": ["water_leak", "sewage"],
+    "slaHours": 48,
+    "contactEmail": "aee-savanur@kuwsdb.gov.in",
+    "contactPhone": "+91 8378 246190",
+    "officerName": "Er. Santosh Kulkarni (AEE)"
+  },
+  {
+    "code": "HESCOM",
+    "name": "Hubli Electricity Supply Company Ltd (HESCOM)",
+    "nameLocal": "ಹುಬ್ಬಳ್ಳಿ ವಿದ್ಯುತ್ ಸರಬರಾಜು ಕಂಪನಿ ನಿಯಮಿತ (ಹೆಸ್ಕಾಂ)",
+    "description": "Manages power lines, electrical distribution transformers, damaged utility poles, and high-voltage hazards.",
+    "jurisdiction": "Haveri O&M Circle, Savanur Sub-division",
+    "handledIssues": ["streetlight"],
+    "slaHours": 12,
+    "contactEmail": "aee-elec-savanur@hescom.co.in",
+    "contactPhone": "+91 8378 245110",
+    "officerName": "Er. Vinayaka Hegde (Section Officer)"
+  },
+  {
+    "code": "KSPCB",
+    "name": "Karnataka State Pollution Control Board (KSPCB)",
+    "nameLocal": "ಕರ್ನಾಟಕ ರಾಜ್ಯ ಮಾಲಿನ್ಯ ನಿಯಂತ್ರಣ ಮಂಡಳಿ",
+    "description": "Monitors industrial effluent release, hazardous waste dumping, air pollution and lake contamination.",
+    "jurisdiction": "Regional Office Haveri & Hubballi",
+    "handledIssues": ["pollution"],
+    "slaHours": 48,
+    "contactEmail": "ro-haveri@kspcb.gov.in",
+    "contactPhone": "+91 836 2253450",
+    "officerName": "Dr. Sunita Deshmukh (Environmental Officer)"
+  }
+]

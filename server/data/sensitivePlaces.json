@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Savanur Govt Model Primary School",
+    "category": "school",
+    "location": { "lat": 14.9702, "lng": 75.3418 },
+    "radiusMeters": 200,
+    "priorityBoost": 1.5,
+    "address": "Court Road, Ward No 4, Savanur"
+  },
+  {
+    "name": "Savanur Community Health Centre (CHC)",
+    "category": "hospital",
+    "location": { "lat": 14.9688, "lng": 75.3435 },
+    "radiusMeters": 250,
+    "priorityBoost": 1.8,
+    "address": "Near Old Bus Stand, Savanur"
+  },
+  {
+    "name": "Savanur KSRTC Bus Stand",
+    "category": "bus_stand",
+    "location": { "lat": 14.9695, "lng": 75.3389 },
+    "radiusMeters": 200,
+    "priorityBoost": 1.4,
+    "address": "Station Road, Savanur"
+  },
+  {
+    "name": "APMC Grain Market Yard",
+    "category": "market",
+    "location": { "lat": 14.9655, "lng": 75.3462 },
+    "radiusMeters": 200,
+    "priorityBoost": 1.2,
+    "address": "APMC Complex, Haveri Road, Savanur"
+  },
+  {
+    "name": "Haveri District General Hospital",
+    "category": "hospital",
+    "location": { "lat": 14.7932, "lng": 75.4011 },
+    "radiusMeters": 300,
+    "priorityBoost": 2.0,
+    "address": "PB Road, Shivaji Nagar, Haveri"
+  },
+  {
+    "name": "Haveri Railway Station & Bus Terminal",
+    "category": "bus_stand",
+    "location": { "lat": 14.7981, "lng": 75.3975 },
+    "radiusMeters": 250,
+    "priorityBoost": 1.5,
+    "address": "Station Road, Haveri"
+  },
+  {
+    "name": "Kittur Chennamma Circle & CBT Hubballi",
+    "category": "bus_stand",
+    "location": { "lat": 15.3524, "lng": 75.1382 },
+    "radiusMeters": 300,
+    "priorityBoost": 1.6,
+    "address": "CBT Bus Terminal, Hubballi"
+  },
+  {
+    "name": "Karnataka Institute of Medical Sciences (KIMS)",
+    "category": "hospital",
+    "location": { "lat": 15.3712, "lng": 75.1298 },
+    "radiusMeters": 350,
+    "priorityBoost": 2.0,
+    "address": "Vidyanagar, PB Road, Hubballi"
+  }
+]
